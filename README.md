@@ -1,3 +1,2 @@
 # SEMANTIC-SEGMENTATION
-Semantic segmentation for Indian Driving Dataset
-<ln>We'll be using U-Net, PSP-Net.
+We'll be using UNET and PSPNET to segment the image. In our code UNET gave a better accuracy than PSPNET
